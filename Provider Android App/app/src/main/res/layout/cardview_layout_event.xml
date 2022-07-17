@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="2dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="160dp"
+        android:layout_height="120dp"
+        app:cardCornerRadius="10dp"
+        app:cardMaxElevation="2dp"
+        app:cardElevation="1dp"
+        android:id="@+id/cardviewevent"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/slotTiming"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounder_corner_2"
+                android:padding="7dp"
+                android:text="10:00 AM to 10:15 AM"
+                android:textColor="@color/black"/>
+<!--                android:textSize="15dp" -->
+
+
+
+            <TextView
+                android:id="@+id/slotDuration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="70dp"
+                android:background="@drawable/rounder_corner_2"
+                android:padding="7dp"
+                android:text="15 Mins"
+                android:textColor="@color/black"
+                />
+
+
+
+
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
