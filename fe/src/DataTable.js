@@ -15,6 +15,7 @@ import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import FolderIcon from '@mui/icons-material/Folder';
 import DeleteIcon from '@mui/icons-material/Delete';
+import { FormattedMessage } from "react-intl";
 
 
 export default function InteractiveList(props) {
@@ -24,25 +25,6 @@ export default function InteractiveList(props) {
     React.useEffect(()=>{
             setTableData([...props.data]);
     },[data,props.data])
-    
-    const generateRows = ()=>{
-        const data = tableData;
-        return data.map(item=> {return (
-            <ListItem
-            secondaryAction={
-              <IconButton edge="end" aria-label="delete">
-                <DeleteIcon  onClick={(item)=>{
-                    props.setSymptoms(item);
-                }}/>
-              </IconButton>
-            }
-          >
-            <ListItemText
-              primary={item}
-            />
-          </ListItem>
-        )})
-    }
     const handleClick=(value)=>{
         props.setSymptoms(value);
     }
@@ -61,7 +43,7 @@ export default function InteractiveList(props) {
                     }
                   >
                     <ListItemText
-                      primary={item}
+                      primary={<FormattedMessage id={item}/>}
                     />
                   </ListItem>
                 )})}

@@ -17,12 +17,6 @@ function Toggle() {
             Register
           </button>
         </div>
-        {/* <button className="toggle-btn toggle-btn-login" onClick={() => setActive(true)}>
-          Login
-        </button>
-        <button className="toggle-btn toggle-btn-register" onClick={() => setActive(false)} type="button">
-          Register
-        </button> */}
 
         <>{active && <LoginForm />}</>
         <>{!active && <RegistrationForm />}</>

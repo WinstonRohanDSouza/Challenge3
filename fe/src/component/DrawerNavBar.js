@@ -14,9 +14,11 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import ListItem from '@mui/material/ListItem';
 import ListItemButton from '@mui/material/ListItemButton';
-import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import {Link} from 'react-router-dom';
+import Select from '@mui/material/Select';
+import MenuItem from '@mui/material/MenuItem';
+import { FormattedMessage } from "react-intl";
 
 const drawerWidth = 240;
 
@@ -65,9 +67,10 @@ const DrawerHeader = styled('div')(({ theme }) => ({
   justifyContent: 'flex-start',
 }));
 
-export default function PersistentDrawerRight() {
+export default function PersistentDrawerRight(props) {
   const theme = useTheme();
   const [open, setOpen] = React.useState(false);
+  const [selectedOption,setSelectedOption]= React.useState('en');
 
   const handleDrawerOpen = () => {
     setOpen(true);
@@ -77,20 +80,25 @@ export default function PersistentDrawerRight() {
     setOpen(false);
   };
 
+  const handleLanguage=(event)=>{
+    setSelectedOption(event.target.value)
+    
+    props.setLanguage(event.target.value)
+  }
   const renderNavButtons=()=>{
     const username = localStorage.getItem('name');
     let elements = {}
-    if(!username.toLocaleLowerCase().includes('doc')) {
+    if(username.toLocaleLowerCase().includes('doc')) {
         elements  = {'Diagnosis':'/diagnosis','Upload Medical Records':'/analyseDocs','Logout':'/'}
     }
     else{
-      elements  = {'Symptoms':'/symptomsPatient','Upload Medical Records':'/analyseDocs','Logout':'/'}
+      elements  = {'Symptoms':'/symptomsPatient','Logout':'/'}
     }
     return Object.keys(elements).map((text, index) => {
       return (<Link to={elements[text]}>
       <ListItem key={text} disablePadding sx={{color: 'black'}} >
         <ListItemButton>
-          <ListItemText primary={text} />
+          <ListItemText primary={<FormattedMessage id={text} />} />
         </ListItemButton>
       </ListItem>
       </Link>
@@ -104,8 +112,19 @@ export default function PersistentDrawerRight() {
       <AppBar position="fixed" open={open}>
         <Toolbar>
           <Typography variant="h6" noWrap sx={{ flexGrow: 1 ,}} component="div">
-            Persistent drawer
+            { localStorage.getItem('name').toLowerCase().includes('doc') ? 'Physician Portal':'Patient Portal' }
           </Typography>
+          <Select
+          labelId="demo-simple-select-label"
+          id="demo-simple-select"
+          value={selectedOption}
+          label="Select A Symptom"
+          onChange={handleLanguage}
+          sx={{color:'white'}}
+        ><MenuItem value="en">English</MenuItem>
+        <MenuItem value="hi">हिन्दी</MenuItem>
+
+        </Select>
           <IconButton
             color="inherit"
             aria-label="open drawer"

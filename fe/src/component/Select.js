@@ -14,13 +14,10 @@ export default function BasicSelect(props) {
     props.addDiagnosis(event.target.value);
     setSelectedOption(event.target.value);
   };
-//   React.useEffect(()=>{
-//     setOptions(props.options)
-//   },[props.options])
 
   return (
     <Box sx={{ minWidth: 120 }}>
-      <FormControl fullWidth >
+      <FormControl fullWidth variant="filled">
         <InputLabel id="demo-simple-select-label">Select A Symptom</InputLabel>
         <Select
           labelId="demo-simple-select-label"

@@ -1,4 +1,0 @@
-include ':json-20210307'
-include ':json-simple-1.1.1'
-include ':app'
-rootProject.name = "FHIRApp"

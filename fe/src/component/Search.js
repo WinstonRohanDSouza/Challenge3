@@ -2,6 +2,7 @@ import * as React from 'react';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import { ApiHelper } from '../helpers/fetchHelper';
+import { FormattedMessage } from "react-intl";
 
 
 export default function FreeSoloCreateOptionDialog(props) {
@@ -29,7 +30,6 @@ export default function FreeSoloCreateOptionDialog(props) {
             text_type:'symptoms'
         },'POST')
         .then(resposnse => {
-          // const resArr = resposnse.predicted_words.splice(5)
             setOptions(resposnse.predicted_words)
         });
     }
@@ -43,19 +43,12 @@ export default function FreeSoloCreateOptionDialog(props) {
   const handleSubmit = (event) => {
     if (event.key == 'Enter') {
        const data = props.data;
-    //    data.push(event.target.value);
        props.setSymptoms(event.target.value);
     }
     else
     {   
         setValue(event.target.value)    
     }
-        
-
-    // setValue({
-    //   title: dialogValue.title,
-    //   year: parseInt(dialogValue.year, 10),
-    // });
 
     handleClose();
   };
@@ -76,10 +69,9 @@ export default function FreeSoloCreateOptionDialog(props) {
         renderOption={(props, option) => <li {...props}>{option}</li>}
         sx={{ width: '100%'}}
         freeSolo
-        renderInput={(params) => <TextField {...params} label="Search" />}
+        renderInput={(params) => <TextField {...params} label={<FormattedMessage id={"Search"}/>} />}
       />
     </React.Fragment>
   );
 }
 
-// Top 100 films as rated by IMDb users. http://www.imdb.com/chart/top

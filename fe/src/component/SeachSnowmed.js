@@ -3,7 +3,6 @@ import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import BasicSelect from './Select';
 import _ from 'lodash';
-// import {snomed} from '../../public/snomed';
 import {snomed} from '../snomed'
 
 
@@ -29,8 +28,7 @@ export default function SearchSnowmed(props) {
        })
         setSelectOptions([...optionss]);
 
-    //    data.push(event.target.value);
-      //  props.addDiagnosis(event.target.value);
+   
     }
     else
     {   
@@ -62,4 +60,3 @@ export default function SearchSnowmed(props) {
   );
 }
 
-// Top 100 films as rated by IMDb users. http://www.imdb.com/chart/top

@@ -5,6 +5,8 @@ import VerticalTabs from './Tabs';
 import FreeSoloCreateOptionDialog from './Search';
 import Button from '@mui/material/Button';
 import InteractiveList from '../DataTable';
+import { FormattedMessage } from "react-intl";
+
 
 const SymptomForm=()=>{
     const [symptoms,setSymptoms] = React.useState([]);
@@ -42,7 +44,7 @@ const SymptomForm=()=>{
                 <Card variant="outlined" styleCard={{height:'91%', 'margin-left': '2%','margin-top': '1em'}} >
                 <Grid container spacing={2} ref={symptomsForm} id='grid1'>
                 <Grid xs={8} item>
-                <h2>Add your Symptoms</h2>
+                <h2><FormattedMessage id={"Add your Symptoms"}/></h2>
                 <FreeSoloCreateOptionDialog data={symptoms} setSymptoms={addSymptom}></FreeSoloCreateOptionDialog>
                 </Grid>
                 {/* <VerticalTabs styleTabs={{ height:'100%'}}/> */}
@@ -52,12 +54,12 @@ const SymptomForm=()=>{
                     <InteractiveList data={symptoms} setSymptoms={deleteSymptom}></InteractiveList>
                 </Grid>
                 <Grid xs={8} item>
-                <Button sx={{marginLeft: '80%'}}disabled={symptoms.length == 0 ? true: false}onClick={gotoScreeningForm} variant="contained" size="large">Continue</Button>
+                <Button sx={{marginLeft: '80%'}}disabled={symptoms.length == 0 ? true: false}onClick={gotoScreeningForm} variant="contained" size="large"><FormattedMessage id={"CONTINUE"}/></Button>
                 </Grid>
                 </Grid>
                 <Grid container spacing={2} ref={symptomsForm} id='grid2' sx={{display:'none'}}>
                 <Grid xs={8} item>
-                <h2>Symptoms Checker</h2>
+                <h2><FormattedMessage id={"Symptoms Checker"}/></h2>
                 </Grid>
                 <VerticalTabs fetchDiseases={fetchDiseases}  symptoms={symptoms}styleTabs={{ height:'100%'}}/>
                 <br></br>

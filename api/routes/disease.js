@@ -122,7 +122,6 @@ router.post("/get",async (req,res)=>
         res.send({})
     }
    // res.send("on disease")
-    console.log(req.body.disease)
 })
 
 router.get("/download",async (req,res)=>

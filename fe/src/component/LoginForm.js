@@ -24,7 +24,6 @@ const validate = (values) => {
 
 
 const LoginForm = () => {
-    // const history = React.usseHistory()
   const [dataRes, setDataRes] = useState(true);
 
  function ApiHelper(url, data = {}, method = 'GET') {
@@ -63,10 +62,13 @@ const LoginForm = () => {
             window.history.pushState({}, '', '/symptomsPatient');
             window.location.reload();
         }
+        
       }
-      alert(JSON.stringify(values, null, 2));
+      else{
+        alert('Incorrect Values Entered');
+      }
+      
 
-      // const { data } = useFetchData("/Users/nv082513/Desktop/hackathon/naela-repo/hackathon/test.json");
     },
   });
   return (

@@ -1,12 +1,10 @@
 
 import "../App.css";
 import Toggle from "./Toggle";
-// import ImageRecognition from "./components/ImageRecognition";
 
 function Login() {
   return (
     <div className="App">
-      {/* <ImageRecognition /> */}
       <div className="full-page ">
         <div className="navbar">
           <div>

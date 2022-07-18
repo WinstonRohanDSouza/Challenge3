@@ -4,9 +4,9 @@ import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
+import { FormattedMessage } from 'react-intl';
 import { ApiHelper } from '../helpers/fetchHelper';
 import RadioControl from './RadioControl';
-import { pillTabsStylesHook } from '@mui-treasury/styles/tabs';
 
 
 function TabPanel(props) {
@@ -81,7 +81,7 @@ export default function VerticalTabs(props) {
         sx={props.styleTabs}
       >
         {Object.keys(symptomTabs).map((symptom,index)=>{
-             return <Tab label={symptom} {...a11yProps(index)}   sx={{paddingBottom: '20%',borderBottom: '1px solid #c8cfca'}} />
+             return <Tab label={<FormattedMessage id={symptom}/>} {...a11yProps(index)}   sx={{paddingBottom: '20%',borderBottom: '1px solid #c8cfca'}} />
         })}
       </Tabs>
             {Object.keys(symptomTabs).map((symptom,index)=>{

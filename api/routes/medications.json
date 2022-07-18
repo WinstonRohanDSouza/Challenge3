@@ -1,0 +1,1131 @@
+{
+  "medicationsData": [
+    {
+      "medicationId": "275871849",
+      "medicationName": "Omez",
+      "dosage": "40 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every day"
+    },
+    {
+      "medicationId": "278827199",
+      "medicationName": "Diclofenac 50 + Paracetamol 325",
+      "dosage": "375 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every day"
+    },
+    {
+      "medicationId": "274625251",
+      "medicationName": "AsmonilPlus",
+      "dosage": "10 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every day"
+    },
+    {
+      "medicationId": "274197839",
+      "medicationName": "Dicyclomine 20 Paracetamol 500",
+      "dosage": "520 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every day"
+    },
+    {
+      "medicationId": "274197833",
+      "medicationName": "Diclofenac 50 Paracetamol 500",
+      "dosage": "550 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275755015",
+      "medicationName": "Multivitamins",
+      "dosage": "15 units ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2762302",
+      "medicationName": "loperamide",
+      "dosage": "50 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2755093",
+      "medicationName": "dexamethasone",
+      "dosage": "0.5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2757314",
+      "medicationName": "Erythromycin",
+      "dosage": "250 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2767366",
+      "medicationName": "PrednisoLONE",
+      "dosage": "10 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2751347",
+      "medicationName": "bisacodyl",
+      "dosage": "5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2770388",
+      "medicationName": "Tramadol",
+      "dosage": "50 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2749283",
+      "medicationName": "ampicillin",
+      "dosage": "250 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "274369759",
+      "medicationName": "Citralac",
+      "dosage": "60 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2752773",
+      "medicationName": "cefpodoxime",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "274359581",
+      "medicationName": "Syp. Digene",
+      "dosage": "200 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "2762383",
+      "medicationName": "Losartan",
+      "dosage": "25 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "202016765",
+      "medicationName": "methylcobalamin",
+      "dosage": "70 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every hour"
+    },
+    {
+      "medicationId": "274628491",
+      "medicationName": "Glibenclamide",
+      "dosage": "5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "274359491",
+      "medicationName": "Aceclofenac",
+      "dosage": "100 mg",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "274359527",
+      "medicationName": "Carbazepine",
+      "dosage": "100 mg",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "275871941",
+      "medicationName": "Ciplox Drops",
+      "dosage": "0.5 mg ",
+      "dosageForm": "Drops ",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "2748798",
+      "medicationName": "alprazolam",
+      "dosage": "0.5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "278078401",
+      "medicationName": "Syp. Cro-Zinc",
+      "dosage": "10 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "2748487",
+      "medicationName": "acyclovir",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "274625345",
+      "medicationName": "Lacticacid Bacillus ",
+      "dosage": "60 M spores ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "2763771",
+      "medicationName": "montelukast",
+      "dosage": "5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "278085879",
+      "medicationName": "Cefixime- Potassium clavulanate",
+      "dosage": "325 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "274308657",
+      "medicationName": "Amlokind",
+      "dosage": "5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "twice a day"
+    },
+    {
+      "medicationId": "2767485",
+      "medicationName": "primaquine",
+      "dosage": "15 mg ",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2761562",
+      "medicationName": "ketoconazole",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "278086787",
+      "medicationName": "Norfloxacin 200 mg Metronidazole 200 Mg",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274628539",
+      "medicationName": "Chloropromazine",
+      "dosage": "50 mg ",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359515",
+      "medicationName": "Artesunate",
+      "dosage": "3 mg",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "276994881",
+      "medicationName": "Pregabalin and Methylco Belamin Capsules",
+      "dosage": "825 mcg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274875881",
+      "medicationName": "ciprofloxacin hydrochloride",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2753117",
+      "medicationName": "chloroquine",
+      "dosage": "15 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274574587",
+      "medicationName": "Roxithromycin",
+      "dosage": "150 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2771094",
+      "medicationName": "vitamin A",
+      "dosage": "5000 units ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2753471",
+      "medicationName": "chlorpheniramine/PE/phenyltoloxamine",
+      "dosage": "4 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752514",
+      "medicationName": "carbonyl iron",
+      "dosage": "500 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "3975080",
+      "medicationName": "ferric subsulfate topical",
+      "dosage": "500 mg ",
+      "dosageForm": "Topical",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2761517",
+      "medicationName": "itraconazole",
+      "dosage": "10 ml",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "19952775",
+      "medicationName": "iron polysaccharide-heme iron polypeptide",
+      "dosage": "50 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "278086979",
+      "medicationName": "Mouth Wash",
+      "dosage": "1 bottle",
+      "dosageForm": "Topical",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "276673333",
+      "medicationName": "Iron Folic Acid",
+      "dosage": "300 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275516487",
+      "medicationName": "Elcoplex",
+      "dosage": "100 units ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275755553",
+      "medicationName": "Vitamin A (Concentrated)",
+      "dosage": "1,00,000 Units ",
+      "dosageForm": "powder ",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2757060",
+      "medicationName": "enalapril",
+      "dosage": "2.5 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2749066",
+      "medicationName": "Amlodipine",
+      "dosage": "5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752125",
+      "medicationName": "Calcium-Vitamin D",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2768055",
+      "medicationName": "Ranitidine",
+      "dosage": "150 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2765630",
+      "medicationName": "Omeprazole",
+      "dosage": "20 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "3316881",
+      "medicationName": "Cefixime syrup ",
+      "dosage": "30 ml",
+      "dosageForm": "Syrup ",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2760660",
+      "medicationName": "Ibuprofen",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2750452",
+      "medicationName": "Azithromycin",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752676",
+      "medicationName": "Cefadroxil",
+      "dosage": "250 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2748022",
+      "medicationName": "acetaminophen",
+      "dosage": "500 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2763443",
+      "medicationName": "MetroNIDAZOLE",
+      "dosage": "400 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2765550",
+      "medicationName": "Ofloxacin",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2766068",
+      "medicationName": "pantoprazole",
+      "dosage": "40 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "277283565",
+      "medicationName": "Aspirin",
+      "dosage": "81 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274308669",
+      "medicationName": "Aten",
+      "dosage": "25 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2766887",
+      "medicationName": "piroxicam",
+      "dosage": "20 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2766638",
+      "medicationName": "phenytoin",
+      "dosage": "100 mg ",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274628569",
+      "medicationName": "Salbutamol Sulphate",
+      "dosage": "4 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274202035",
+      "medicationName": "Anticold",
+      "dosage": "5 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275739365",
+      "medicationName": "Dicyclomine Hydrochloride",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275730857",
+      "medicationName": "Calcium carbonate with Vitamin D3",
+      "dosage": "5 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274626181",
+      "medicationName": "otus cough syrup",
+      "dosage": "5 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274366639",
+      "medicationName": "ornidazole",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275871873",
+      "medicationName": "Cefixime",
+      "dosage": "40 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275627893",
+      "medicationName": "Rantac",
+      "dosage": "500 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2758687",
+      "medicationName": "folic acid",
+      "dosage": "1 units",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274189997",
+      "medicationName": "Albendazole",
+      "dosage": "150 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2756557",
+      "medicationName": "Doxycycline",
+      "dosage": "100 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2758256",
+      "medicationName": "fluconazole",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2756752",
+      "medicationName": "electrolyte replacement solutions, oral",
+      "dosage": "21 gm ",
+      "dosageForm": "Powder",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2769581",
+      "medicationName": "telmisartan",
+      "dosage": "40 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2765642",
+      "medicationName": "ondansetron",
+      "dosage": "4 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359509",
+      "medicationName": "Nimesulide",
+      "dosage": "100 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "278085887",
+      "medicationName": "Cefixime- azithromycin",
+      "dosage": "200 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2761938",
+      "medicationName": "Levofloxacin",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274625905",
+      "medicationName": "clavum",
+      "dosage": "625 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "278078393",
+      "medicationName": "Syp. Nutro",
+      "dosage": "200 mg ",
+      "dosageForm": "Syrup",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275748979",
+      "medicationName": "Mefenamic Acid + Dicyclomine",
+      "dosage": "50 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2749984",
+      "medicationName": "Ascorbic Acid",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274628479",
+      "medicationName": "Phenobarbitone",
+      "dosage": "60 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274638873",
+      "medicationName": "Vertol",
+      "dosage": "16 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752096",
+      "medicationName": "calcium gluconate",
+      "dosage": "100 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359437",
+      "medicationName": "Syp. Ampicillins",
+      "dosage": "250 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274628545",
+      "medicationName": "Ferrous Sulphate and Folic Acid",
+      "dosage": "335 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274369721",
+      "medicationName": "Sporlac",
+      "dosage": "5 g ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359407",
+      "medicationName": "Syp. Amoxyccillin",
+      "dosage": "375 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "4333023",
+      "medicationName": "betahistine",
+      "dosage": "16 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275748665",
+      "medicationName": "Diethylcarbamazin (antifilarial)",
+      "dosage": "120 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2756465",
+      "medicationName": "DOPamine",
+      "dosage": "10 mg",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "276994873",
+      "medicationName": "Aceclofenac + Paracetamol",
+      "dosage": "425 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "278833479",
+      "medicationName": "Omeprazole 20 + Domperidone 10",
+      "dosage": "30 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2753178",
+      "medicationName": "Chlorpheniramine maleate ",
+      "dosage": "4 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2763914",
+      "medicationName": "multivitamin",
+      "dosage": "50 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359563",
+      "medicationName": "Syp. Cetrizine",
+      "dosage": "5 ml ",
+      "dosageForm": "Syrup",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359305",
+      "medicationName": "Glimipride 2mg + Metformin 500 mg ",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "276673357",
+      "medicationName": "Domperidone",
+      "dosage": "20 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2765351",
+      "medicationName": "Norfloxacin",
+      "dosage": "400 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2749136",
+      "medicationName": "Amoxicillin",
+      "dosage": "100 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2755789",
+      "medicationName": "Dicyclomine",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359317",
+      "medicationName": "Paracetamol",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2750272",
+      "medicationName": "atorvastatin",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274654087",
+      "medicationName": "Candid-V6",
+      "dosage": "1 tab",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2761704",
+      "medicationName": "lactulose",
+      "dosage": "10 g ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2756602",
+      "medicationName": "doxylamine",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2748758",
+      "medicationName": "allopurinol",
+      "dosage": "100 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2768220",
+      "medicationName": "RisperiDONE",
+      "dosage": "4 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "3320531",
+      "medicationName": "Tinidazole",
+      "dosage": "300 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752917",
+      "medicationName": "Cephalexin",
+      "dosage": "125 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274628467",
+      "medicationName": "Etofylline",
+      "dosage": "75 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2769775",
+      "medicationName": "Tetracycline",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "17543684",
+      "medicationName": "bifidobacterium-lactobacillus",
+      "dosage": "60 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2763687",
+      "medicationName": "misoprostol",
+      "dosage": "200 mcg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2759898",
+      "medicationName": "hydrochlorothiazide",
+      "dosage": "25 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275516481",
+      "medicationName": "urikind",
+      "dosage": "0.4 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274625391",
+      "medicationName": "Cefcocoxime",
+      "dosage": "5 ml ",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2753702",
+      "medicationName": "cholecalciferol",
+      "dosage": "400 units ",
+      "dosageForm": "solution",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2754806",
+      "medicationName": "cyproheptadine",
+      "dosage": "2.5 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2748556",
+      "medicationName": "Al hydroxide/Mg hydroxide/simethicone",
+      "dosage": "10 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "276694891",
+      "medicationName": "Cetrizine",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275730843",
+      "medicationName": "Secnidazole",
+      "dosage": "1 g ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274808101",
+      "medicationName": "Aceclofenac+Paracetamol+Serratiopeptidase",
+      "dosage": "500 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2766803",
+      "medicationName": "pioglitazone",
+      "dosage": "15 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359539",
+      "medicationName": "Mala-d",
+      "dosage": "50 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2765727",
+      "medicationName": "Oseltamivir",
+      "dosage": "60 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275730707",
+      "medicationName": "Acetyl Salicylic Acid",
+      "dosage": "75 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752896",
+      "medicationName": "celecoxib",
+      "dosage": "1 cap",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "275754975",
+      "medicationName": "Methyl Ergometrine",
+      "dosage": "0.125 mg ",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2769363",
+      "medicationName": "sucralfate",
+      "dosage": "10 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "3830419",
+      "medicationName": "iron polysaccharide-ascorbic acid",
+      "dosage": "50 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2762499",
+      "medicationName": "magnesium citrate",
+      "dosage": "150 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2754718",
+      "medicationName": "cyclizine",
+      "dosage": "1 tab ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2767917",
+      "medicationName": "pyridoxine",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359401",
+      "medicationName": "Erythromycin",
+      "dosage": "250 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2763256",
+      "medicationName": "methyldopa",
+      "dosage": "250 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "19949650",
+      "medicationName": "acetaminophen/CPM/dextromethorphan/GG",
+      "dosage": "4 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2770780",
+      "medicationName": "ubiquinone",
+      "dosage": "1 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "24605437",
+      "medicationName": "acetaminophen-dexbrompheniramine",
+      "dosage": "650 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2762516",
+      "medicationName": "magnesium hydroxide",
+      "dosage": "30 ml",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359521",
+      "medicationName": "Eptoin",
+      "dosage": "100 mg ",
+      "dosageForm": "Injection",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2755775",
+      "medicationName": "diclofenac-misoprostol",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "3346849",
+      "medicationName": "chlorpheniramine-codeine",
+      "dosage": "1 tab ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2762321",
+      "medicationName": "loperamide-simethicone",
+      "dosage": "5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2752653",
+      "medicationName": "cefaclor",
+      "dosage": "500 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2753392",
+      "medicationName": "chlorpheniramine/HYDROcodone/PSE",
+      "dosage": "10 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "3316832",
+      "medicationName": "brompheniramine/DM/phenylephrine/guaiFENesin",
+      "dosage": "5 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "4144696",
+      "medicationName": "acetaminophen/chlorpheniramine/DM",
+      "dosage": "10 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2761963",
+      "medicationName": "levonorgestrel",
+      "dosage": "1.5 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2767457",
+      "medicationName": "Prednisone",
+      "dosage": "10 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2763277",
+      "medicationName": "methylphenidate",
+      "dosage": "20 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2763584",
+      "medicationName": "mifepristone",
+      "dosage": "200 mg",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "2768371",
+      "medicationName": "sacrosidase",
+      "dosage": "1 ml ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "24504524",
+      "medicationName": "ascorbic acid-carbonyl iron",
+      "dosage": "1 tab",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    },
+    {
+      "medicationId": "274359413",
+      "medicationName": "Septran",
+      "dosage": "800 mg ",
+      "dosageForm": "Tablet",
+      "frequency": "every bedtime"
+    }
+  ]
+}
